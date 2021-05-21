@@ -1,0 +1,10 @@
+Flask
+numpy
+opencv-python
+pandas
+Pillow
+pytesseract
+requests
+requests-oauthlib
+requests-unixsocket
+
